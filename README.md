@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Leon Fridman
+# Hi there 👋,
 
 <img width="100%" src="https://uploads-ssl.webflow.com/5fcbea3bde3927867b306161/628fa8360552220d9415f4a5_github-header-image.png" alt="my banner">
 
