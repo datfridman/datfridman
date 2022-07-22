@@ -4,6 +4,7 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Swift</p>
+<img src="https://camo.githubusercontent.com/3ec4a3aea56effb31875a1d14460f82f8d44da2e1bc77bb1373c81466dbd6ac6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b2d546865253230506c616e65742d6f72616e6765" style="margin-bottom: 4px;" height="30px">
 
 ## 💻 Skills
 <p>
