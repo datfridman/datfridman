@@ -1,6 +1,6 @@
 # Hey, Tech Enthusiasts! 👋
 
-![Banner](https://uploads-ssl.webflow.com/5fcbea3bde3927867b306161/628fa8360552220d9415f4a5_github-header-image.png)
+![Banner](https://github.blog/wp-content/uploads/2020/12/github-mobile-header.png)
 
 Welcome to my GitHub playground! I’m stoked you’re here—let’s dive into some code magic! 🚀
 
