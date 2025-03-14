@@ -47,8 +47,6 @@ I’m diving deep into **Machine Learning** and **Artificial Intelligence**, whe
 - NLP systems for chatbots and text analysis.  
 - Computer vision tools for image recognition.  
 
-Check out my [ML projects](#) (link coming soon) to see these in action!
-
 ---
 
 ## 🌐 Let’s Connect!
