@@ -1,4 +1,4 @@
-# Hey, Tech Enthusiasts! 👋
+# Hey 👋
 
 Welcome to my GitHub playground! I’m stoked you’re here—let’s dive into some code magic! 🚀
 
