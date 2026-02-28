@@ -54,7 +54,7 @@ I’m diving deep into **Machine Learning** and **Artificial Intelligence**, whe
 Got ideas about tech, ML/AI, or just want to geek out? I’m all ears—reach out!  
 
 <p>
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/datfridman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30px">
   </a>
 </p>
